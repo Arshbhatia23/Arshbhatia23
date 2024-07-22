@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arsh Bhatia
-- 👀 I’m interested in Java Progtramming
+- 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me: https://www.linkedin.com/in/arshbhatia23/
